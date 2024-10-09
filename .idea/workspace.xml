@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8909a99a-a0d7-449c-986b-4495f088ec30" name="Changes" comment="" />
+    <list default="true" id="8909a99a-a0d7-449c-986b-4495f088ec30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dynamic programming/Second/Number_of_fixed_length_paths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic programming/Third/Floyd_algorithm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic programming/Third/Shortest_reliable_routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic programming/Third/Warshall_algorithm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic programming/Introduction to dynamic programming/binomial_coefficients.js" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/First/Binomial_coefficients.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic programming/Introduction to dynamic programming/fibonacci_numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/First/Fibonacci_numbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic programming/number_of_paths_in_acyclic_graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/Second/Number_of_paths_in_acyclic_graph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic programming/optimal_core_cutting.js" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/First/Optimal_core_cutting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dynamic programming/shortest_paths_in_acyclic_graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/Dynamic programming/Second/Shortest_paths_in_acyclic_graph.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AyloRyd"
+  }
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="1aa83a9b-1cbd-4030-9be2-45e95688b531" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AyloRyd/DSaA.git",
+    "accountId": "1aa83a9b-1cbd-4030-9be2-45e95688b531"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -34,15 +57,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.Floyd_algorithm.js.executor": "Run",
+    "Node.js.Number_of_fixed_length_paths.js.executor": "Run",
+    "Node.js.Shortest_reliable_routes.js.executor": "Run",
+    "Node.js.Warshall_algorithm.js.executor": "Run",
     "Node.js.binomial_coefficients.js.executor": "Run",
     "Node.js.fibonacci.js.executor": "Run",
     "Node.js.fibonacci_numbers.js.executor": "Run",
+    "Node.js.number_of_fixed_length_paths.js.executor": "Run",
     "Node.js.number_of_paths_in_acyclic_graph.js.executor": "Run",
     "Node.js.optimal_core_cutting.js.executor": "Run",
     "Node.js.shortest_paths_in_acyclic_graph.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/andre/ХНУРЕ/AaDS",
+    "javascript.nodejs.core.library.configured.version": "20.8.1",
+    "javascript.nodejs.core.library.typings.version": "20.8.10",
+    "last_opened_file_path": "C:/Users/andre/NURE/DSaA",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +84,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\NURE\DSaA\Dynamic programming\Second" />
+      <recent name="C:\Users\andre\NURE\DSaA\Dynamic programming\First" />
       <recent name="C:\Users\andre\ХНУРЕ\AaDS\Dynamic programming" />
       <recent name="C:\Users\andre\ХНУРЕ\AaDS" />
       <recent name="C:\Users\andre\ХНУРЕ\AaDS\Introduction to dynamic programming" />
@@ -62,7 +94,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.22855.79" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
       </set>
     </attachedChunks>
   </component>
@@ -76,6 +108,7 @@
       <updated>1727168549009</updated>
       <workItem from="1727168550283" duration="2400000" />
       <workItem from="1727171071059" duration="8352000" />
+      <workItem from="1728487264876" duration="9284000" />
     </task>
     <servers />
   </component>
